@@ -4,7 +4,7 @@
 - 💞️ 
 - 📫 How to reach me on this page
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: reading nobels
+- ⚡ Fun fact: reading books
 
 <!---
 kejita/kejita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
