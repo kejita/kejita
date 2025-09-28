@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @kejita
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python
-- 💞️ 
-- 📫 How to reach me on this page
+- 👋 Hi, I’m kejita
+- 🌱 I’m currently learning ML
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: reading books
 
