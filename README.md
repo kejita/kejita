@@ -1,4 +1,4 @@
-# Hi, I'm Kejita 👋
+# Hi, I'm Kejita 🐰
 
 Welcome to my GitHub profile!  
 I'm passionate about technology, coding, and building projects that make a difference.
